@@ -11,5 +11,5 @@
 		$DB->RunSQL($Query);
 		echo "<div class='alert alert-success'> Usuario Registrado </div>";
 		$DB -> DisconnectDatabase();
-		header("refresh:10 ./Login.php");
+		header("location: ./index.php");
 	?>
