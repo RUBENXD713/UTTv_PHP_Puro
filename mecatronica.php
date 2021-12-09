@@ -48,10 +48,39 @@
             <div class="row">
                 <div class="col-12">
                    <div class="wrapper">
-                       <a href="./Login.php">
+                   <?php
+                            session_start();
+                            if (isset($_SESSION["Name"])) 
+                            {
+                              echo "<a href='./CloseSession.php'>";
+                            }else
+                            {
+                              echo "<a href='./Login.php'>";
+                            }
+                              ?>
+                       
                         <div class="button">
-                            <div class="icon"><i class="fa fa-user-plus fa-2x"></i></div>
-                            <span>Iniciar Sesion</span>
+                        <?php
+                            if (isset($_SESSION["Name"])) 
+                            {
+                              echo "<div class='icon'><img src='./imagenes/logout.png' id='logout' alt=' logout'width='80' height='80' ></div>";
+                            }else
+                            {
+                              echo "<div class='icon'><i class='fa fa-user-plus fa-2x'></i></div>";
+                            }
+                              ?>
+                            
+                           
+                          <?php
+                            if (isset($_SESSION["Name"])) 
+                            {
+                              echo "<span>&nbsp;&nbsp;&nbsp;".$_SESSION["Name"]."</span>";
+                            }else
+                            {
+                              echo "<span>Iniciar Sesion</span>";
+                            }
+                              ?>
+                            
                         </div>
                        </a>
                    </div>

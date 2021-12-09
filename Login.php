@@ -15,7 +15,7 @@
         <img class="avatar" src="./imagenes/Logo.png" alt="">
         <br>
         <h2>Bienvenid@ a la familia </h2>
-        <form method="POST" action="/Login" id="loginfomr">
+        <form method="POST" action="./VerifyLogin.php" id="loginfomr">
             <!-- Nombre del usuario -->
             <!-- <label for="nombreusuario"><i class="fa fa-user fa-2x" id="icons"></i></label> -->
             <span><i class="fa fa-user fa-2x" id="icons"></i></span>
@@ -35,6 +35,18 @@
             <a href="./Registro.php">No tienes una cuenta</a>
         </form>
     </div>
+
+    
+
+
+
+
+
+    <!--session_start();
+					$_SESSION["User"]=$User;
+					$_SESSION["ID"]= $Renglon[2];
+					$_SESSION["TipeUser"]= $Renglon[3];
+					$ID=$_SESSION["ID"];-->
     <script src="./bootstrap-4.5.0-dist/js/jquery-3.5.1.min.js"></script>
     <script src="./bootstrap-4.5.0-dist/js/bootstrap.min.js.map"></script>
 </body>

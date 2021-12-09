@@ -22,20 +22,20 @@
                 <h2 id="TituloRegistro">Bienvenid@ a la familia</h2>
                 <br>
                 <br>
-                <form method="POST" action="/Registro" id="FormularioRegis">
+                <form method="POST" action="./SaveUser.php" id="FormularioRegis">
                     <!-- Correo electronico -->
                     <span><i class="fa fa-envelope-o fa-2x"></i></span>
-                    <input type="text" name="" id="" placeholder="Correo electronico">
+                    <input type="text" name="email" id="" placeholder="Correo electronico">
                     <br>
                     <br>
                     <!-- Nombre -->
                     <span><i class="fa fa-user fa-2x"></i></span>
-                    <input type="text" name="" id="" placeholder="Nombre de usuario">
+                    <input type="text" name="name" id="" placeholder="Nombre de usuario">
                     <br>
                     <br>
                     <!-- Contraseña -->
                     <span><i class="fa fa-lock fa-2x"></i></span>
-                    <input type="password" name="" id="" placeholder="Contraseña">
+                    <input type="password" name="password" id="" placeholder="Contraseña">
                     <br><br>
                     <button id="Regisbuton">Crear cuenta</button>
                     <br><br>
@@ -49,5 +49,9 @@
     </div>
     <script src="./bootstrap-4.5.0-dist/js/jquery-3.5.1.min.js"></script>
     <script src="./bootstrap-4.5.0-dist/js/bootstrap.min.js.map"></script>
+
+
+    
+
 </body>
 </html>
