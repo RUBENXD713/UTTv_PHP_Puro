@@ -5,7 +5,7 @@ class Database
 	private $PDOlocal;
 	private $User = "admin";
 	private $Password = "UTTv2021#.";
-	private $Host = "mysql:host=127.0.0.1; dbname=UTTv";
+	private $Host = "mysql:host=localhost; dbname=UTTv";
 
 	function ConnectDatabase ()
 	{
