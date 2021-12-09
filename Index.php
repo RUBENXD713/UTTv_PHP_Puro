@@ -8,6 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="./styles/estilos.css">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
     <!-- Hotjar Tracking Code for https://www.uttv.com.mx -->
 <script>
     (function(h,o,t,j,a,r){
@@ -76,26 +77,87 @@
                 <i class="fa fa-search fa-2x" id="prueba"></i>
             </button>
             <p style="text-align: center;" class="videossss">Menu principal</p>
+            <br>
+            
  
   
  
-  
+  <!---------------------------------------- -->
+
 
   <div class="videossss">
     <table class="default" style="text-align: center;">
-      <tr>
+    <tr>
           <td class="separation">
-            <img src="imagenes/facebook.png" width="90" height="90" id="redes" class="fade-in">
+          <a style="text-decoration:none;color:white;" href="./vistameca1.php">
+              Curso basico de arduino
+              <img src="./imagenes/captura5.png" width="220" height="120">
+              <p>Curso de 71 capitulos....</p>
+              </a>
             </td>
           <td class="separation">
-            <img src="imagenes/instagram.png" width="100" height="100" id="redes" class="fade-in">
+          <a style="text-decoration:none;color:white;" href="./vistameca2.php">
+              Curso basico de  PLC
+              <img src="./imagenes/captura9.png" width="220" height="120"><p>Curso de 24 capitulos....</p>
+              </a>
             </td>
+            
           <td class="separation"> 
-            <img src="imagenes/twiter.png" width="100" height="100" id="redes" class="fade-in">
+          <a style="text-decoration:none;color:white;" href="./vistameca3.php">
+              Electricidad y Magnetismo
+              <img src="./imagenes/captura10.png" width="220" height="120"><p>Curso de 87 capitulos....</p>
+              </a>
             </td>
+              
+            <td class="separation"> 
+            <a style="text-decoration:none;color:white;" href="./vistameca4.php">
+                Curso basico de Calculo Diferencial
+                <img src="./imagenes/captura11.png" width="220" height="120">
+                <p>Curso de 3 capitulos....</p>
+                </a>
+              </td>
+
+      </tr>
+      <tr>
+        <td>
+        <a style="text-decoration:none;color:white;" href="./vistatics5.php">
+                Curso basico de arduino
+                <img src="./imagenes/captura5.png" width="220" height="120">
+              <p>Curso de 71 capitulos....</p>
+          </a>
+        </td>
+        <td>
+        <a style="text-decoration:none;color:white;" href="./vistatics6.php">
+          Curso de Android Studio
+          <img src="./imagenes/captura6.png" width="220" height="120">
+          <p>Curso de 68 capitulos....</p>
+          </a>
+        </td>
+        <td>
+        <a style="text-decoration:none;color:white;" href="./vistatics7.php">
+          Curso Xcode y Swift
+          <img src="./imagenes/captura7.png" width="220" height="120">
+          <p>Curso de 84 capitulos....</p>
+          </a>
+        </td>
+        <td>
+        <a style="text-decoration:none;color:white;" href="./vistatics8.php">
+            Curso basico de Raspberry
+            <img src="./imagenes/captura8.png" width="220" height="120">
+            <p>Curso de 12 capitulos....</p>
+            </a>
+          </td>
       </tr>
     </table>    
   </div>
+
+
+  <!---------------------------------------- -->
+
+
+
+
+
           </div>
         </div>
     </header>
@@ -103,5 +165,53 @@
     <!-- JavaScript Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="./js/animaciones.js"></script>
+
+
+    <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<footer class="bg-dark text-white pt-5 pb-4">
+    <div class="row align-items-center">
+
+      <div class="col-md-7 col-lg-8">
+        <p> 
+          <a href="#" style="text-decoration: none;">
+            <strong class="text-warning"></strong>
+          </a></p>
+        
+      </div>
+
+      <div class="col-md-5 col-lg-4">
+        <div class="text-center text-md-right">
+
+          <ul class="list-unstyled list-inline">
+            <li class="list-inline-item">
+              <a href="#" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="fab fa-facebook"></i></a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="fab fa-twitter"></i></a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="fab fa-whatsapp"></i></a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="fab fa-instagram"></i></a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="fab fa-youtube"></i></a>
+            </li>
+          </ul>
+          
+        </div>
+        
+      </div>
+      
+    </div>
+    
+  
+</footer>
 </body>
 </html>

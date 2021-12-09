@@ -66,38 +66,34 @@
            
             <p style="text-align: center;" class="videossss">MECATRONICA</p>
             <br>
-            <br>
-            <br>
             <div class="videossss">
     <table class="default" style="text-align: center;">
       <tr>
           <td class="separation">
           <a style="text-decoration:none;color:white;" href="./vistameca1.php">
               Curso basico de arduino
-              <iframe width="220" height="120" src="https://www.youtube.com/embed/eBVvD85Ml2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <img src="./imagenes/captura5.png" width="220" height="120">
               <p>Curso de 71 capitulos....</p>
               </a>
             </td>
           <td class="separation">
           <a style="text-decoration:none;color:white;" href="./vistameca2.php">
               Curso basico de  PLC
-              <iframe width="220" height="120" src="https://www.youtube.com/embed/euMtargFSGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              <p>Curso de 24 capitulos....</p>
+              <img src="./imagenes/captura9.png" width="220" height="120"><p>Curso de 24 capitulos....</p>
               </a>
             </td>
             
           <td class="separation"> 
           <a style="text-decoration:none;color:white;" href="./vistameca3.php">
               Electricidad y Magnetismo
-              <iframe width="220" height="120" src="https://www.youtube.com/embed/cFaf1_P2Y8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              <p>Curso de 87 capitulos....</p>
+              <img src="./imagenes/captura10.png" width="220" height="120"><p>Curso de 87 capitulos....</p>
               </a>
             </td>
               
             <td class="separation"> 
             <a style="text-decoration:none;color:white;" href="./vistameca4.php">
                 Curso basico de Calculo Diferencial
-                <iframe width="220" height="120" src="https://www.youtube.com/embed/vjx4i8DkgF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <img src="./imagenes/captura11.png" width="220" height="120">
                 <p>Curso de 3 capitulos....</p>
                 </a>
               </td>
@@ -107,29 +103,25 @@
         <td>
         <a style="text-decoration:none;color:white;" href="./vistameca5.php">
           Curso de Sensores y Actuadores
-          <iframe width="220" height="120" src="https://www.youtube.com/embed/uup3U0aqq6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <p>Curso de 1 capitulo....</p>
+          <img src="./imagenes/captura12.png" width="220" height="120"><p>Curso de 1 capitulo....</p>
           </a>
         </td>
         <td>
         <a style="text-decoration:none;color:white;" href="./vistameca6.php">
           Curso de Sistemas Mecatronicos
-          <iframe width="220" height="120" src="https://www.youtube.com/embed/bxcg8eVYRz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <p>Curso de 6 capitulos....</p>
+          <img src="./imagenes/captura13.png" width="220" height="120"><p>Curso de 6 capitulos....</p>
           </a>
         </td>
         <td>
         <a style="text-decoration:none;color:white;" href="./vistameca7.php">
           Curso basico de Robotica
-          <iframe width="220" height="120" src="https://www.youtube.com/embed/-wED6SbZnY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <p>Curso de 4 capitulos....</p>
+          <img src="./imagenes/captura14.png" width="220" height="120"><p>Curso de 4 capitulos....</p>
           </a>
         </td>
         <td>
         <a style="text-decoration:none;color:white;" href="./vistameca8.php">
             Curso basico de Termodinamica
-            <iframe width="220" height="120" src="https://www.youtube.com/embed/QMV0DRycU8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <p>Curso de 3 clases....</p>
+            <img src="./imagenes/captura14.png" width="220" height="120"><p>Curso de 3 clases....</p>
             </a>
           </td>
       </tr>

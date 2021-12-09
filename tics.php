@@ -75,14 +75,14 @@
           <td class="separation">
           <a style="text-decoration:none;color:white;" href="./vistatics1.php">
               Curso basico de C#
-              <iframe width="220" height="120" src="https://www.youtube.com/embed/6EBNIgkrU74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              <p>Curso de 119 capitulos....</p>
+                <img src="./imagenes/captura1.png" width="220" height="120">
+                <p>Curso de 119 capitulos....</p>
               </a>
             </td>
           <td class="separation">
           <a style="text-decoration:none;color:white;" href="./vistatics2.php">
               Curso Cisco Packet Tracer
-              <iframe width="220" height="120" src="https://www.youtube.com/embed/kydZEZwr4cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <img src="./imagenes/captura2.png" width="220" height="120">
               <p>Curso de 70 capitulos....</p>
               </a>
             </td>
@@ -90,7 +90,7 @@
           <td class="separation"> 
           <a style="text-decoration:none;color:white;" href="./vistatics3.php">
               Curso Basico de SQL en MySql
-              <iframe width="220" height="120" src="https://www.youtube.com/embed/Q6sn6UMgR54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <img src="./imagenes/captura3.png" width="220" height="120">
               <p>Curso de 87 capitulos....</p>
               </a>
             </td>
@@ -98,7 +98,7 @@
             <td class="separation"> 
             <a style="text-decoration:none;color:white;" href="./vistatics4.php">
                 Curso basico Laravel
-                <iframe width="220" height="120" src="https://www.youtube.com/embed/A-BL8Ir7puE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <img src="./imagenes/captura4.png" width="220" height="120">
                 <p>Curso de 3 capitulos....</p>
                 </a>
               </td>
@@ -108,28 +108,28 @@
         <td>
         <a style="text-decoration:none;color:white;" href="./vistatics5.php">
                 Curso basico de arduino
-              <iframe width="220" height="120" src="https://www.youtube.com/embed/eBVvD85Ml2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <img src="./imagenes/captura5.png" width="220" height="120">
               <p>Curso de 71 capitulos....</p>
           </a>
         </td>
         <td>
         <a style="text-decoration:none;color:white;" href="./vistatics6.php">
           Curso de Android Studio
-          <iframe width="220" height="120" src="https://www.youtube.com/embed/tyx05coXixw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <img src="./imagenes/captura6.png" width="220" height="120">
           <p>Curso de 68 capitulos....</p>
           </a>
         </td>
         <td>
         <a style="text-decoration:none;color:white;" href="./vistatics7.php">
           Curso Xcode y Swift
-          <iframe width="220" height="120" src="https://www.youtube.com/embed/MyzZnIR5gC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <img src="./imagenes/captura7.png" width="220" height="120">
           <p>Curso de 84 capitulos....</p>
           </a>
         </td>
         <td>
         <a style="text-decoration:none;color:white;" href="./vistatics8.php">
             Curso basico de Raspberry
-            <iframe width="220" height="120" src="https://www.youtube.com/embed/89zndeyLtGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <img src="./imagenes/captura8.png" width="220" height="120">
             <p>Curso de 12 capitulos....</p>
             </a>
           </td>
@@ -143,6 +143,7 @@
     <!-- JavaScript Bundle with Popper -->
     <!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="animaciones.js"></script> -->
+<br>
 <br>
 <br>
 <br>
