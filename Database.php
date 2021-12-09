@@ -3,7 +3,7 @@ class Database
 {
 
 	private $PDOlocal;
-	private $User = "root";
+	private $User = "admin";
 	private $Password = "UTTv2021#.";
 	private $Host = "mysql:host=127.0.0.1; dbname=UTTv";
 
