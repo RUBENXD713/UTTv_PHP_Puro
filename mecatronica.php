@@ -13,6 +13,11 @@
     <title>UTTv</title>
 </head>
 <body id="fondo">
+<?php
+   include 'Database.php';
+   $connection = new Database();
+   $connection->ConnectDatabase(); 
+?>
     <header id="base">
         <div class="letf_area">
           <div class="container" id="menu">
@@ -79,6 +84,7 @@
                             {
                               echo "<span>Iniciar Sesion</span>";
                             }
+                            $connection->DisconnectDatabase();
                               ?>
                             
                         </div>

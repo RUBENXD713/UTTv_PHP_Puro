@@ -97,6 +97,7 @@
                             {
                               echo "<span>Iniciar Sesion</span>";
                             }
+                            $connection->DisconnectDatabase();
                               ?>
                             
                         </div>
