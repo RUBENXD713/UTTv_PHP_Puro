@@ -44,7 +44,7 @@
             <p></p>
             <div class="row g-2">
                 <div class="col-12">
-                  <a style="text-decoration:none" href="mecatronica.php">
+                  <a style="text-decoration:none" href="./mecatronica.php">
                     <button type="button" id="boton" class="btn" href="">Mecatronica</button>
                   </a>
                 </div>
@@ -52,7 +52,7 @@
             <p></p>
             <div class="row g-2">
                 <div class="col-12">
-                <a style="text-decoration:none" href="tics.php">
+                <a style="text-decoration:none" href="./tics.php">
                     <button type="button" id="boton" class="btn">Tics</button>
                 </div>
             </a>
@@ -78,7 +78,7 @@
             </button>
             <p style="text-align: center;" class="videossss">Menu principal</p>
             <br>
-            
+
  
   
  
@@ -168,6 +168,8 @@
 
 
     <br>
+<br>
+<br>
 <br>
 <br>
 <br>
